@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.19)  20 SEP 2016 23:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.19)  21 SEP 2016 00:27
 entering extended mode
 **./main.tex
 (main.tex
@@ -1513,7 +1513,7 @@ Overfull \hbox (11.22533pt too wide) in paragraph at lines 225--225
 ps studied.}[] 
  []
 
-[9] <Figures/Electron.pdf, id=347, 398.3386pt x 284.52756pt>
+[9] <Figures/Electron.pdf, id=339, 398.3386pt x 284.52756pt>
 File: Figures/Electron.pdf Graphic file (type pdf)
 
 <use Figures/Electron.pdf>
@@ -1561,7 +1561,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  30021 strings out of 493634
  607775 string characters out of 3143741
- 721462 words of memory out of 3000000
+ 721356 words of memory out of 3000000
  33017 multiletter control sequences out of 15000+200000
  94339 words of font info for 105 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -1578,9 +1578,9 @@ m Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX
 1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8
 a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (39 pages, 258805 bytes).
+Output written on main.pdf (39 pages, 257132 bytes).
 PDF statistics:
- 509 PDF objects out of 1000 (max. 8388607)
+ 501 PDF objects out of 1000 (max. 8388607)
  86 named destinations out of 1000 (max. 500000)
  238 words of extra memory for PDF output out of 10000 (max. 10000000)
 
