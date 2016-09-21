@@ -1,0 +1,94 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: UTF8
+
+
+@Article{Coyne,
+  Title                    = {Further Advances in the Classification of the Seborrheic Keratosis},
+  Author                   = {Coyne, John D.},
+  Number                   = {3},
+  Pages                    = {241--242},
+  Volume                   = {24},
+  Date                     = {2016-05},
+  Doi                      = {10.1177/1066896915614894},
+  ISSN                     = {1940-2465},
+  Journaltitle             = {International Journal of Surgical Pathology},
+  Owner                    = {mitri4},
+  Pmid                     = {26721306},
+  Shortjournal             = {Int. J. Surg. Pathol.},
+  Timestamp                = {2016.09.21}
+}
+
+@Article{Coynea,
+  Title                    = {Classification of the Seborrheic Keratosis},
+  Author                   = {Coyne, John D.},
+  Number                   = {1},
+  Pages                    = {51--52},
+  Volume                   = {24},
+
+  __markedentry            = {[mitri4:6]},
+  Date                     = {2016-02},
+  Doi                      = {10.1177/1066896915604459},
+  ISSN                     = {1940-2465},
+  Journaltitle             = {International Journal of Surgical Pathology},
+  Owner                    = {mitri4},
+  Pmid                     = {26353851},
+  Shortjournal             = {Int. J. Surg. Pathol.},
+  Timestamp                = {2016.09.21}
+}
+
+@Article{Jackson,
+  Title                    = {Current Understanding of Seborrheic Keratosis: Prevalence, Etiology, Clinical Presentation, Diagnosis, and Management},
+  Author                   = {Jackson, J. Mark and Alexis, Andrew and Berman, Brian and Berson, Diane S. and Taylor, Susan and Weiss, Jonathan S.},
+  Number                   = {10},
+  Pages                    = {1119--1125},
+  Volume                   = {14},
+
+  __markedentry            = {[mitri4:]},
+  Abstract                 = {Seborrheic keratosis ({SK}) is among the most common cutaneous lesions, affecting some 83 million Americans. Biologically benign, {SK} lesions do not require removal for medical reasons unless histologic confirmation of the clinical diagnosis is required or the lesions are traumatized and/or become symptomatic. These macular or popular pigmented lesions are often of cosmetic concern to patients. In addition, their natural history of gradually increasing in size, thickness, and/or pigmentation often serves as the impetus compelling patients to present to a dermatologist for evaluation and skin cancer screening; {SK} is diagnosed and managed primarily by dermatologists. Data regarding {SK} prevalence and management from a survey of 594 practicing, board-certified dermatologists are summarized herein: Dermatologists report they diagnose an average of 155 patients per month with {SK}. Among {SK} patients presenting to dermatologists, 33\% have more than 15 {SK} lesions and 67\% have 15 or fewer {SK} lesions. On average, dermatologists treat 43\% of their {SK} patients to remove lesions. Cryosurgery is the most common removal method. Other commonly employed removal methods include shave excision, electrodessication, curettage or a combination of these. While these procedures can be used to remove {SK} lesions effectively, each has potential drawbacks and careful patient selection is required to optimize cosmetic results particularly in skin of color patients and patients with thick or numerous lesions. While there is great interest from both patients and providers in a topical non-invasive treatment for {SK}, no effective topical therapeutic agent has been developed, and this remains an area of unmet need.},
+  Date                     = {2015-10},
+  ISSN                     = {1545-9616},
+  Journaltitle             = {Journal of drugs in dermatology: {JDD}},
+  Keywords                 = {Cryosurgery, Curettage, Dermatology, Humans, Keratosis, Seborrheic, Patient Selection, Prevalence, United States},
+  Owner                    = {mitri4},
+  Pmid                     = {26461823},
+  Shortjournal             = {J Drugs Dermatol},
+  Shorttitle               = {Current Understanding of Seborrheic Keratosis},
+  Timestamp                = {2016.09.21}
+}
+
+@Article{Roh,
+  Title                    = {Clinical and Histopathological Investigation of Seborrheic Keratosis},
+  Author                   = {Roh, Nam Kyung and Hahn, Hyung Jin and Lee, Yang Won and Choe, Yong Beom and Ahn, Kyu Joong},
+  Number                   = {2},
+  Pages                    = {152--158},
+  Volume                   = {28},
+  Abstract                 = {{BACKGROUND}: Seborrheic keratosis ({SK}) is one of the most common epidermal tumors of the skin. However, only a few large-scale clinicohistopathological investigations have been conducted on {SK} or on the possible correlation between histopathological {SK} subtype and location. {OBJECTIVE}: The aim of this study was to analyze the clinical and histopathological features of a relatively large number of cases of diagnosed {SK}. {METHODS}: Two hundred and seventy-one pathology slides of skin tissue from patients with clinically diagnosed {SK} and 206 cases of biopsy-proven {SK} were analyzed. The biopsy-proven cases of {SK} were assessed for histopathological subclassification. The demographic, clinical, and histopathological data of the patients were collected for analysis of associated factors. {RESULTS}: The most frequent histopathological subtype was the acanthotic type, followed by mixed, hyperkeratotic, melanoacanthoma, clonal, irritated, and adenoid types; an unexpectedly high percentage (9.2\%) of the melanoacanthoma variant was observed. The adenoid type was more common in sun-exposed sites than in sun-protected sites (p=0.028). Premalignant and malignant entities together represented almost one-quarter (24.2\%) of the clinicopathological mismatch cases (i.e., mismatch between the clinical and histopathological diagnoses). Regarding the location of {SK} development, the frequency of mismatch for the sun-exposed areas was significantly higher than that for sun-protected areas (p=0.043). {CONCLUSION}: The adenoid type was more common in sun-exposed sites. Biopsy sampling should be performed for lesions situated in sun-exposed areas to exclude other premalignant or malignant diseases.},
+  Date                     = {2016-04},
+  Doi                      = {10.5021/ad.2016.28.2.152},
+  ISSN                     = {1013-9087},
+  Journaltitle             = {Annals of Dermatology},
+  Keywords                 = {Classification, Pathology, Seborrheic keratosis},
+  Owner                    = {mitri4},
+  Pmcid                    = {PMC4828376},
+  Pmid                     = {27081260},
+  Shortjournal             = {Ann Dermatol},
+  Timestamp                = {2016.09.21}
+}
+
+@Article{Squillace,
+  Title                    = {Unusual Dermoscopic Patterns of Seborrheic Keratosis},
+  Author                   = {Squillace, Lorenzo and Cappello, Milena and Longo, Caterina and Moscarella, Elvira and Alfano, Roberto and Argenziano, Giuseppe},
+  Number                   = {2},
+  Pages                    = {198--202},
+  Volume                   = {232},
+  Abstract                 = {{BACKGROUND}: Seborrheic keratoses ({SKs}) may sometimes mimic benign and malignant skin tumors, and a biopsy can be necessary in order to rule out malignancy. {METHODS}: From the database of our pigmented lesion clinic, we evaluated the dermoscopic features of difficult-to-diagnose {SKs} that were biopsied between January 2010 and December 2014. {RESULTS}: {SKs} represented 3.8\% of all excised lesions (161/ 4,182). Specifically, 91 (56.5\%) were excised to rule out melanoma, 63 (39.1\%) to rule out squamous cell carcinoma and 7 (4.4\%) to rule out basal cell carcinoma. The following 10 global dermoscopic patterns were identified: multicomponent (32; 19.9\%); reticular (24; 14.9\%), characterized by an irregular pigment network; bowenoid (21; 13.0\%); hairpin (19; 11.8\%); keratoacanthoma-like (16; 9.9\%); blue-nevus-like (15; 9.3\%); lichenoid (6; 3.7\%); hyperkeratotic (6; 3.7\%); clonal (5; 3.1\%); spitzoid (5; 3.1\%). Furthermore, 12 {SKs} (7.5\%) were not included in any of such patterns (not classified). {CONCLUSION}: Our results are in line with previous studies highlighting the dermoscopic variability of {SKs}. Although excised {SKs} may be classified into 1 of 10 repetitive dermoscopic patterns, a biopsy remains mandatory for those that cannot be clearly differentiated from common skin malignancies.},
+  Date                     = {2016},
+  Doi                      = {10.1159/000442439},
+  ISSN                     = {1421-9832},
+  Journaltitle             = {Dermatology (Basel, Switzerland)},
+  Owner                    = {mitri4},
+  Pmid                     = {26812275},
+  Shortjournal             = {Dermatology (Basel)},
+  Timestamp                = {2016.09.21}
+}
+
