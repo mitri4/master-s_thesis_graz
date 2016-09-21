@@ -6,11 +6,11 @@
 \contentsline {chapter}{Acknowledgements}{ix}{section*.3}
 \contentsline {chapter}{\numberline {1}Chapter Title Here}{1}{chapter.14}
 \contentsline {section}{\numberline {1.1}Welcome and Thank You}{1}{section.15}
-\contentsline {section}{\numberline {1.2}Learning \LaTeX {}}{1}{section.16}
-\contentsline {subsection}{\numberline {1.2.1}A (not so short) Introduction to \LaTeX {}}{2}{subsection.17}
-\contentsline {subsection}{\numberline {1.2.2}A Short Math Guide for \LaTeX {}}{2}{subsection.18}
-\contentsline {subsection}{\numberline {1.2.3}Common \LaTeX {} Math Symbols}{2}{subsection.19}
-\contentsline {subsection}{\numberline {1.2.4}\LaTeX {} on a Mac}{2}{subsection.20}
+\contentsline {section}{\numberline {1.2}Learning \textlatin {\LaTeX }{}}{1}{section.16}
+\contentsline {subsection}{\numberline {1.2.1}A (not so short) Introduction to \textlatin {\LaTeX }{}}{2}{subsection.17}
+\contentsline {subsection}{\numberline {1.2.2}A Short Math Guide for \textlatin {\LaTeX }{}}{2}{subsection.18}
+\contentsline {subsection}{\numberline {1.2.3}Common \textlatin {\LaTeX }{} Math Symbols}{2}{subsection.19}
+\contentsline {subsection}{\numberline {1.2.4}\textlatin {\LaTeX }{} on a Mac}{2}{subsection.20}
 \contentsline {section}{\numberline {1.3}Getting Started with this Template}{3}{section.21}
 \contentsline {subsection}{\numberline {1.3.1}About this Template}{3}{subsection.22}
 \contentsline {section}{\numberline {1.4}What this Template Includes}{3}{section.23}
