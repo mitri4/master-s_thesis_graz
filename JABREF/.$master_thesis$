@@ -1,0 +1,399 @@
+% Encoding: UTF-8
+
+
+@Article{Coyne,
+  Title                    = {Further Advances in the Classification of the Seborrheic Keratosis},
+  Author                   = {Coyne, John D.},
+  Number                   = {3},
+  Pages                    = {241--242},
+  Volume                   = {24},
+  Date                     = {2016-05},
+  Doi                      = {10.1177/1066896915614894},
+  ISSN                     = {1940-2465},
+  Journaltitle             = {International Journal of Surgical Pathology},
+  Owner                    = {mitri4},
+  Pmid                     = {26721306},
+  Shortjournal             = {Int. J. Surg. Pathol.},
+  Timestamp                = {2016.09.21}
+}
+
+@Article{Coynea,
+  author       = {Coyne, John D.},
+  title        = {Classification of the Seborrheic Keratosis},
+  volume       = {24},
+  number       = {1},
+  pages        = {51--52},
+  date         = {2016-02},
+  doi          = {10.1177/1066896915604459},
+  issn         = {1940-2465},
+  journaltitle = {International Journal of Surgical Pathology},
+  owner        = {mitri4},
+  pmid         = {26353851},
+  shortjournal = {Int. J. Surg. Pathol.},
+  timestamp    = {2016.09.21},
+}
+
+@Article{Jackson,
+  author       = {Jackson, J. Mark and Alexis, Andrew and Berman, Brian and Berson, Diane S. and Taylor, Susan and Weiss, Jonathan S.},
+  title        = {Current Understanding of Seborrheic Keratosis: Prevalence, Etiology, Clinical Presentation, Diagnosis, and Management},
+  volume       = {14},
+  number       = {10},
+  pages        = {1119--1125},
+  abstract     = {Seborrheic keratosis ({SK}) is among the most common cutaneous lesions, affecting some 83 million Americans. Biologically benign, {SK} lesions do not require removal for medical reasons unless histologic confirmation of the clinical diagnosis is required or the lesions are traumatized and/or become symptomatic. These macular or popular pigmented lesions are often of cosmetic concern to patients. In addition, their natural history of gradually increasing in size, thickness, and/or pigmentation often serves as the impetus compelling patients to present to a dermatologist for evaluation and skin cancer screening; {SK} is diagnosed and managed primarily by dermatologists. Data regarding {SK} prevalence and management from a survey of 594 practicing, board-certified dermatologists are summarized herein: Dermatologists report they diagnose an average of 155 patients per month with {SK}. Among {SK} patients presenting to dermatologists, 33\% have more than 15 {SK} lesions and 67\% have 15 or fewer {SK} lesions. On average, dermatologists treat 43\% of their {SK} patients to remove lesions. Cryosurgery is the most common removal method. Other commonly employed removal methods include shave excision, electrodessication, curettage or a combination of these. While these procedures can be used to remove {SK} lesions effectively, each has potential drawbacks and careful patient selection is required to optimize cosmetic results particularly in skin of color patients and patients with thick or numerous lesions. While there is great interest from both patients and providers in a topical non-invasive treatment for {SK}, no effective topical therapeutic agent has been developed, and this remains an area of unmet need.},
+  date         = {2015-10},
+  issn         = {1545-9616},
+  journaltitle = {Journal of drugs in dermatology: {JDD}},
+  keywords     = {Cryosurgery, Curettage, Dermatology, Humans, Keratosis, Seborrheic, Patient Selection, Prevalence, United States},
+  owner        = {mitri4},
+  pmid         = {26461823},
+  shortjournal = {J Drugs Dermatol},
+  shorttitle   = {Current Understanding of Seborrheic Keratosis},
+  timestamp    = {2016.09.21},
+}
+
+@Article{Roh,
+  author       = {Roh, Nam Kyung and Hahn, Hyung Jin and Lee, Yang Won and Choe, Yong Beom and Ahn, Kyu Joong},
+  title        = {Clinical and Histopathological Investigation of Seborrheic Keratosis},
+  volume       = {28},
+  number       = {2},
+  pages        = {152--158},
+  abstract     = {{BACKGROUND}: Seborrheic keratosis ({SK}) is one of the most common epidermal tumors of the skin. However, only a few large-scale clinicohistopathological investigations have been conducted on {SK} or on the possible correlation between histopathological {SK} subtype and location. {OBJECTIVE}: The aim of this study was to analyze the clinical and histopathological features of a relatively large number of cases of diagnosed {SK}. {METHODS}: Two hundred and seventy-one pathology slides of skin tissue from patients with clinically diagnosed {SK} and 206 cases of biopsy-proven {SK} were analyzed. The biopsy-proven cases of {SK} were assessed for histopathological subclassification. The demographic, clinical, and histopathological data of the patients were collected for analysis of associated factors. {RESULTS}: The most frequent histopathological subtype was the acanthotic type, followed by mixed, hyperkeratotic, melanoacanthoma, clonal, irritated, and adenoid types; an unexpectedly high percentage (9.2\%) of the melanoacanthoma variant was observed. The adenoid type was more common in sun-exposed sites than in sun-protected sites (p=0.028). Premalignant and malignant entities together represented almost one-quarter (24.2\%) of the clinicopathological mismatch cases (i.e., mismatch between the clinical and histopathological diagnoses). Regarding the location of {SK} development, the frequency of mismatch for the sun-exposed areas was significantly higher than that for sun-protected areas (p=0.043). {CONCLUSION}: The adenoid type was more common in sun-exposed sites. Biopsy sampling should be performed for lesions situated in sun-exposed areas to exclude other premalignant or malignant diseases.},
+  date         = {2016-04},
+  doi          = {10.5021/ad.2016.28.2.152},
+  issn         = {1013-9087},
+  journaltitle = {Annals of Dermatology},
+  keywords     = {Classification, Pathology, Seborrheic keratosis},
+  owner        = {mitri4},
+  pmcid        = {PMC4828376},
+  pmid         = {27081260},
+  shortjournal = {Ann Dermatol},
+  timestamp    = {2016.09.21},
+}
+
+@Article{Squillace,
+  Title                    = {Unusual Dermoscopic Patterns of Seborrheic Keratosis},
+  Author                   = {Squillace, Lorenzo and Cappello, Milena and Longo, Caterina and Moscarella, Elvira and Alfano, Roberto and Argenziano, Giuseppe},
+  Number                   = {2},
+  Pages                    = {198--202},
+  Volume                   = {232},
+  Abstract                 = {{BACKGROUND}: Seborrheic keratoses ({SKs}) may sometimes mimic benign and malignant skin tumors, and a biopsy can be necessary in order to rule out malignancy. {METHODS}: From the database of our pigmented lesion clinic, we evaluated the dermoscopic features of difficult-to-diagnose {SKs} that were biopsied between January 2010 and December 2014. {RESULTS}: {SKs} represented 3.8\% of all excised lesions (161/ 4,182). Specifically, 91 (56.5\%) were excised to rule out melanoma, 63 (39.1\%) to rule out squamous cell carcinoma and 7 (4.4\%) to rule out basal cell carcinoma. The following 10 global dermoscopic patterns were identified: multicomponent (32; 19.9\%); reticular (24; 14.9\%), characterized by an irregular pigment network; bowenoid (21; 13.0\%); hairpin (19; 11.8\%); keratoacanthoma-like (16; 9.9\%); blue-nevus-like (15; 9.3\%); lichenoid (6; 3.7\%); hyperkeratotic (6; 3.7\%); clonal (5; 3.1\%); spitzoid (5; 3.1\%). Furthermore, 12 {SKs} (7.5\%) were not included in any of such patterns (not classified). {CONCLUSION}: Our results are in line with previous studies highlighting the dermoscopic variability of {SKs}. Although excised {SKs} may be classified into 1 of 10 repetitive dermoscopic patterns, a biopsy remains mandatory for those that cannot be clearly differentiated from common skin malignancies.},
+  Date                     = {2016},
+  Doi                      = {10.1159/000442439},
+  ISSN                     = {1421-9832},
+  Journaltitle             = {Dermatology (Basel, Switzerland)},
+  Owner                    = {mitri4},
+  Pmid                     = {26812275},
+  Shortjournal             = {Dermatology (Basel)},
+  Timestamp                = {2016.09.21}
+}
+
+@Article{Rajesh2011,
+  author       = {Rajesh, G. and Thappa, Devinder Mohan and Jaisankar, Telanseri J. and Chandrashekar, Laxmisha},
+  title        = {Spectrum of seborrheic keratoses in South Indians: a clinical and dermoscopic study},
+  volume       = {77},
+  number       = {4},
+  pages        = {483--488},
+  abstract     = {{BACKGROUND}: Even though seborrheic keratoses ({SK}) have been well characterized clinically and histopathologically, data regarding clinical and dermoscopic correlation of different types of {SK} are inadequate.
+{AIMS}: We carried out a study to establish any correlation between the clinical and dermoscopic appearance of {SK} and its variants.
+{METHODS}: This was a descriptive study conducted in the Department of Dermatology, a tertiary care institute, from August 2008 to June 2010. Patients with {SK} were evaluated with respect to age, sex, age of onset, duration, site of lesions, number of lesions, and morphology. Dermoscopy was performed in all cases.
+{RESULTS}: A total of 250 cases of {SK} were recruited. A male-to-female ratio was 1:1.04. The most common age group affected by {SK} was 60 years and above (40\%). The most common clinical variant was common seborrheic keratosis ({CSK}) (60\%). Comedo-like openings ({CL}) (80\%), fissures and ridges ({FR}) (52\%), and sharp demarcation ({SD}) (83\%) were consistent finding on dermoscopy in {CSK}. Dermatosis papulosa nigra ({DPN}) and pedunculated seborrheic keratoses ({PSK}) had characteristic {CL} and {FR} in both of them. Fingerprint ({FP}) (55\%) and network-like ({NL}) (88\%) structures were commonly seen in flat {SK}. Stucco keratoses demonstrated {SD} (100\%) and {NL} structures (100\%).
+{CONCLUSIONS}: The most common clinical variant of {SK} was {CSK}, followed by {DPN}, {PSK}, Flat {SK}, and stucco keratoses. Dermoscopic findings were consistent with those described in the literature.},
+  date         = {2011-08},
+  doi          = {10.4103/0378-6323.82408},
+  file         = {:http\://www.ijdvl.com/article.asp?issn=0378-6323\;year=2011\;volume=77\;issue=4\;spage=483\;epage=488\;aulast=Rajesh:URL},
+  issn         = {0973-3922},
+  journaltitle = {Indian Journal of Dermatology, Venereology and Leprology},
+  keywords     = {Adult, Aged, Aged, 80 and over, Dermoscopy, Female, Humans, India, Keratosis, Seborrheic, Male, Middle Aged, Young Adult},
+  pmid         = {21727696},
+  shortjournal = {Indian J Dermatol Venereol Leprol},
+  shorttitle   = {Spectrum of seborrheic keratoses in South Indians},
+}
+
+@Article{Braun2002,
+  author       = {Braun, Ralph Peter and Rabinovitz, Harold S. and Krischer, Joachim and Kreusch, Jürgen and Oliviero, Margaret and Naldi, Luigi and Kopf, Alfred W. and Saurat, Jean H.},
+  title        = {Dermoscopy of pigmented seborrheic keratosis: a morphological study},
+  volume       = {138},
+  number       = {12},
+  pages        = {1556--1560},
+  abstract     = {{OBJECTIVES}: To describe morphological features of seborrheic keratosis as seen by dermoscopy and to investigate their prevalence.
+{DESIGN}: Prospective cohort study using macrophotography and dermoscopy for the documentation of seborrheic keratosis.
+{SETTINGS}: Seborrheic keratoses were prospectively collected in 2 sites: a private practice in Plantation, Fla (site 1), and the Department of Dermatology at the University Hospital Geneva in Switzerland (site 2).
+{PATIENTS}: A total of 203 pigmented seborrheic keratoses (from 192 patients) with complete documentation were collected (111 from site 1 and 93 from site 2).
+{INTERVENTIONS}: Screening for new morphological features of seborrheic keratosis and evaluation of all lesions for the prevalence of these criteria.
+{MAIN} {OUTCOME} {MEASURES}: Identification of new morphological criteria and evaluation of frequency.
+{RESULTS}: A total of 15 morphological dermoscopic criteria were identified. Standard criteria such as milialike cysts and comedolike openings were found in a high number of cases (135 and 144, respectively). We found network and networklike structures to be present in 94 lesions (46\%). Using standard diagnostic criteria for seborrheic keratosis, 30 lesions would not have been diagnosed as such.
+{CONCLUSIONS}: The classic dermoscopic criteria for seborrheic keratosis (milialike cysts and comedolike openings) have a high prevalence but the use of additional dermoscopic criteria such as fissures, hairpin blood vessels, sharp demarcation, and moth-eaten borders improves the diagnostic accuracy. The proper identification of pigment network and networklike structures is important for the correct diagnosis.},
+  date         = {2002-12},
+  issn         = {0003-987X},
+  journaltitle = {Archives of Dermatology},
+  keywords     = {Biopsy, Needle, Cohort Studies, Dermatology, Diagnosis, Differential, Female, Humans, Incidence, Keratosis, Seborrheic, Male, Melanoma, Prognosis, Prospective Studies, Risk Assessment, Severity of Illness Index, Skin Neoplasms},
+  pmid         = {12472342},
+  shortjournal = {Arch Dermatol},
+  shorttitle   = {Dermoscopy of pigmented seborrheic keratosis},
+}
+
+@Article{Kwon2003,
+  author       = {Kwon, Oh S. and Hwang, Eun J. and Bae, Jae H. and Park, Hyo E. and Lee, Jong C. and Youn, Jai I. and Chung, Jin H.},
+  title        = {Seborrheic keratosis in the Korean males: causative role of sunlight},
+  volume       = {19},
+  number       = {2},
+  pages        = {73--80},
+  abstract     = {{BACKGROUND}/{PURPOSE}: Seborrheic keratoses ({SKs}) are common epidermal tumors in the white population over 40 years. The etiology of {SKs} is not well known; however, exposure to sunlight was suggested to play a role in the development of them. To our knowledge, no well-designed study has been undertaken in order to investigate the clinical characteristics of {SKs} in a brown-skinned Korean population. The aim of this study was to assess the prevalence and clinical features of {SKs} in the Korean males and to investigate the possible relationship of {SKs} with sun exposure and possible risk factors of developing {SKs}.
+{METHODS}: A total of consecutive 303 male volunteers, aged 40-70 years, were recruited from general community and public health centres. Each volunteer was interviewed regarding demographic data, sunlight sensitivity, lifetime cumulative sun exposure and smoking history. Skin examination was performed except for scalp, buttocks and genitals. All {SKs} were recorded about the anatomical distribution, the size of each lesion measured with a caliber, color and morphology.
+{RESULTS}: The mean overall prevalence of {SKs} in the Korean males, aged 40-70 years was 88.1\%. A considerable increase in the prevalence of {SKs} was shown from 78.9\% at 40 years to 93.9\% at 50 years and 98.7\% in those over 60 years. The mean number of lesions per person was 5.5 at 40 years, 9.2 at 50 years and 13.4 at 60 years. Seborrheic keratoses were considerably more frequent on exposed areas (0.47 +/- 0.06/percentage of body surface area, {BSA}) than partly exposed areas (0.04 +/- 0.01/percentage of {BSA}). The majority of lesions were concentrated on the face (0.98 +/- 0.09/percentage of {BSA}) and on the dorsum of each hand (0.51 +/- 0.08/percentage of {BSA}). The size of each lesion on exposed areas also became significantly larger by decade significantly (P {\textless} 0.01). The estimated area covered by {SKs} per percentage of {BSA} on exposed areas was 5.7-fold larger than that on partly exposed areas at 40 years, 11.2-fold larger at 50 years and 18.3-fold larger at 60 years. Aging by decade showed a 2.08-fold increased risk for {SKs} (n {\textgreater} or = 6) (95\% {CI}, 1.07-4.08) at 50 years and a 3.47-fold risk (95\% {CI}, 1.67-7.20) at 60 years on exposed areas compared with the 40-year age group, for developing many {SKs} (n {\textgreater} or = 6). Lifetime cumulative sunlight exposure of more than 6 h per day was associated with a 2.28-fold higher risk of {SKs} than a sun exposure of less than 3 h per day. A tendency for an odds ratio value reduction was found on increasing Fitzpatrick skin types I-{III} to {VI}, V; however, this was without statistical significance.
+{CONCLUSIONS}: Seborrheic keratoses are common in the Korean males, aged 40-70 years, and may be a major pigmentary problem. Both aging and cumulative sunlight exposure were found to be independent contributory factors.},
+  date         = {2003-04},
+  issn         = {0905-4383},
+  journaltitle = {Photodermatology, Photoimmunology \& Photomedicine},
+  keywords     = {Adult, Aged, Age Factors, Asian Continental Ancestry Group, Humans, Keratosis, Seborrheic, Korea, Male, Middle Aged, Prevalence, Risk Factors, Sunlight, Surveys and Questionnaires},
+  pmid         = {12945806},
+  shortjournal = {Photodermatol Photoimmunol Photomed},
+  shorttitle   = {Seborrheic keratosis in the Korean males},
+}
+
+@Article{Yeatman1997,
+  author       = {Yeatman, J. M. and Kilkenny, M. and Marks, R.},
+  title        = {The prevalence of seborrhoeic keratoses in an Australian population: does exposure to sunlight play a part in their frequency?},
+  volume       = {137},
+  number       = {3},
+  pages        = {411--414},
+  abstract     = {Although seborrhoeic keratoses ({SKs}) appear to be very common, there are very few studies reporting details of age-specific prevalence, distribution or possible cause. We report details on the frequency, nature and distribution of {SKs} in 100 Australian adults in the age groups 15-25, 26-50, 51-75 and those aged more than 75 years. There was an increase in prevalence of {SKs} from 12\% of 15-25 year olds to 100\% of those aged more than 50 years. The median number of lesions in those with them also increased with age from six per person in 15-25 year olds to 69 per person in those aged more than 75 years. There was no difference in prevalence or numbers of lesions/person between males and females. {SKs} on exposed areas were more often flat and more than 3 mm in diameter than those on the non-exposed areas. There was a higher prevalence of {SKs} on the exposed areas than non-exposed areas when taking into account the surface area. The data in this study demonstrate an increased frequency of {SKs} compared with those reported from the United Kingdom recently and from Australasia in the past, a phenomenon paralleling the changing frequency of skin cancer in these populations. This fact, plus the finding that {SKs} were more common as a function of skin surface area on the exposed areas of the body, suggests that sunlight may play a part in their development in those people who are predisposed to develop them.},
+  date         = {1997-09},
+  issn         = {0007-0963},
+  journaltitle = {The British Journal of Dermatology},
+  keywords     = {Adolescent, Adult, Aged, Age Distribution, Female, Humans, Keratosis, Seborrheic, Male, Middle Aged, Prevalence, Sunlight, Victoria},
+  pmid         = {9349339},
+  shortjournal = {Br. J. Dermatol.},
+  shorttitle   = {The prevalence of seborrhoeic keratoses in an Australian population},
+}
+
+@Article{Chung2001,
+  author       = {Chung, J. H. and Lee, S. H. and Youn, C. S. and Park, B. J. and Kim, K. H. and Park, K. C. and Cho, K. H. and Eun, H. C.},
+  title        = {Cutaneous photodamage in Koreans: influence of sex, sun exposure, smoking, and skin color},
+  volume       = {137},
+  number       = {8},
+  pages        = {1043--1051},
+  abstract     = {{BACKGROUND}: Severe wrinkles and pigmentary changes of the exposed skin indicate substantial damage due to {UV} radiation. Many investigators believe that the principal manifestation of photodamage in Asians is pigmentary change rather than wrinkles. However, to our knowledge, no well-designed study has investigated the characteristics of cutaneous photodamage in Asian skin.
+{OBJECTIVE}: To access the severity of wrinkles and dyspigmentation in Koreans exposed to sun and who smoked.
+{METHODS}: We developed new photographic scales for grading wrinkles and dyspigmentation in 407 Koreans to assess the severity of the wrinkles and dyspigmentation. We interviewed subjects to determine cumulative sun exposure and smoking history, and measured the skin color of individual subjects.
+{RESULTS}: Our photographic scales provided a reliable evaluation of photodamage severity in Koreans. The pattern of wrinkling in both sexes is similar, but women tended to have more severe wrinkles (prevalence odds ratio, 3.7). However, the pattern of dyspigmentation differed between the sexes. Seborrheic keratosis is the major pigmentary lesion in men, whereas hyperpigmented macules are the prominent features in women. Cigarette smoking is an independent risk factor for wrinkles, but not for dyspigmentation, in Koreans, and causes additive detrimental effects to wrinkles induced by aging and sun exposure. The constitutive skin color did not show any correlation with wrinkles or dyspigmentation. However, facultative pigmentation (sun exposure index) may reflect lifetime sun exposure, and it shows a good correlation with wrinkles in Koreans.
+{CONCLUSION}: Wrinkling is a major feature of photoaging in Koreans, as are pigmentary changes; smoking, sun exposure, and female sex are independent risk factors for wrinkles.},
+  date         = {2001-08},
+  issn         = {0003-987X},
+  journaltitle = {Archives of Dermatology},
+  keywords     = {Adult, Aged, Aged, 80 and over, Asian Continental Ancestry Group, Female, Humans, Korea, Male, Middle Aged, Sex Factors, Skin Aging, Skin Pigmentation, Smoking, Sunlight},
+  pmid         = {11493097},
+  shortjournal = {Arch Dermatol},
+  shorttitle   = {Cutaneous photodamage in Koreans},
+}
+
+@Article{Gill2000,
+  author       = {Gill, D. and Dorevitch, A. and Marks, R.},
+  title        = {The prevalence of seborrheic keratoses in people aged 15 to 30 years: is the term senile keratosis redundant?},
+  volume       = {136},
+  number       = {6},
+  pages        = {759--762},
+  abstract     = {{BACKGROUND}: Seborrheic keratoses ({SKs}) are common skin lesions that have been shown to occur with increasing age, although the age of onset is not well recorded.
+{OBJECTIVE}: To determine the prevalence, nature, and distribution of {SKs} in young people.
+{METHODS}: One hundred seventy people aged 15 to 30 years were given a total body examination during which the presence, number, site, and size of {SKs} were recorded. Biopsy specimens were taken from the first 22 people who had lesions clinically diagnosed as {SKs}. Data on age, skin type, eye color, and hair color were recorded for all respondents.
+{RESULTS}: Forty (23.5\%) of 170 respondents had at least one {SK}, with no significant difference between the sexes. There was an increase in prevalence with age from 15.7\% in 15- to 19-year-olds to 32.3\% in those aged 25 to 30 years. The size of the {SKs} also increased with age. A total of 77.5\% of {SKs} were found on the trunk and 22.5\% on the limbs, head, and neck. There was no correlation between {SKs} and any particular hair and eye color or skin type.
+{CONCLUSIONS}: These findings confirm that {SKs} are common lesions in young Australians, appearing in a substantial proportion of people younger than 30 years. The term senile keratosis is no longer appropriate for these lesions.},
+  date         = {2000-06},
+  issn         = {0003-987X},
+  journaltitle = {Archives of Dermatology},
+  keywords     = {Adolescent, Adult, Age Factors, Cross-Sectional Studies, Dermatitis, Seborrheic, Female, Humans, Incidence, Male, Terminology as Topic, Victoria},
+  pmid         = {10871940},
+  shortjournal = {Arch Dermatol},
+  shorttitle   = {The prevalence of seborrheic keratoses in people aged 15 to 30 years},
+}
+
+@Article{Harvey1996,
+  author       = {Harvey, I. and Frankel, S. and Marks, R. and Shalom, D. and Nolan-Farrell, M.},
+  title        = {Non-melanoma skin cancer and solar keratoses {II} analytical results of the South Wales Skin Cancer Study},
+  volume       = {74},
+  number       = {8},
+  pages        = {1308--1312},
+  abstract     = {This study aimed to identify risk markers for prevalent solar keratoses ({SKs}) and squamous cell carcinomata ({SCC}) combined, for incident {SKs} and for spontaneous remission of {SKs} and to evaluate primary preventative measures. It was a cross-sectional study, with follow-up, conducted in South Wales, and involved 1034 subjects aged 60 years and over. The main outcome measures were the presence of and changes in {SKs}, and presence of skin cancers, on sun-exposed skin, and risk factors for prevalent {SKs}/{SCCs} and for incidence and remission of {SKs}. We found that variables independently associated with prevalent {SKs}/{SCCs} were: age [80 + years vs 60-64 years, odds ratio ({OR}) 3.7]; sex (male vs female {OR} 2.2); cumulative sun exposure (top quintile vs bottom quintile {OR} 3.3) and skin type (skin type 1 vs 4 {OR} 12.4). Use of sunscreen or protective clothing was not protective after controlling for confounders. Males and those who sunbathe infrequently showed greater remission of {SKs}. Older subjects and those spending most time in the sun in the preceeding 2 years were most likely to develop new {SKs}. We conclude that the risk factors identified are consistent with results from sunnier countries. The failure of sunscreen or clothing to emerge as protective raises doubts as to whether these measures are as effective in routine use in the general population as theoretical considerations and the limited trial evidence would predict. Recently reported sun exposure appears to influence the risk of developing new {SKs}.},
+  date         = {1996-10},
+  issn         = {0007-0920},
+  journaltitle = {British Journal of Cancer},
+  keywords     = {Aged, Aged, 80 and over, Analysis of Variance, Carcinoma, Squamous Cell, Female, Humans, Keratosis, Longitudinal Studies, Male, Middle Aged, Multivariate Analysis, Risk Factors, Skin Neoplasms, Sunlight, Ultraviolet Rays, Wales},
+  pmcid        = {PMC2075911},
+  pmid         = {8883423},
+  shortjournal = {Br. J. Cancer},
+}
+
+@Article{Frost1998,
+  author       = {Frost, C. A. and Green, A. C. and Williams, G. M.},
+  title        = {The prevalence and determinants of solar keratoses at a subtropical latitude (Queensland, Australia)},
+  volume       = {139},
+  number       = {6},
+  pages        = {1033--1039},
+  abstract     = {We report the association between skin pigmentation and individual sun exposure, and the occurrence of solar keratoses ({SKs}) in an unselected population, quantified for the first time. {SKs} were examined in a representative sample of 197 residents of the community of Nambour in Queensland, Australia. Estimates of sun exposure were combined with a measure of ultraviolet ({UV}) flux to estimate actual {UV} exposure, both occupational and recreational, during childhood and adult life. The number of episodes of painful sunburn was used as a measure of intermittent, intense {UV} exposure. Eight-three participants (43\%) had at least one {SK}, while 35 (18\%) had more than 10 {SKs} diagnosed. The age- and sex-adjusted odds ratios ({ORs}) for the development of {SKs} were higher in individuals with fair ({OR} = 14.1) or medium skin ({OR} = 6.5), compared with olive-skinned individuals. Individuals with poor ability to develop a suntan were similarly at increased risk compared with others. High levels of occupational {UV} exposure during adult life were confirmed as being strongly associated with prevalent {SKs} ({OR} = 2.4 for heavy/maximal adult exposure), with an even stronger association seen in those individuals with multiple {SKs} ({OR} = 4.3 for maximal adult exposure). Although no clear association was demonstrated between {SK} prevalence and accumulated childhood sun exposure, a history of even one episode of sunburn in childhood was strongly associated with {SK} prevalence (peak {OR} of 5.9 for one sunburn).},
+  date         = {1998-12},
+  issn         = {0007-0963},
+  journaltitle = {The British Journal of Dermatology},
+  keywords     = {Adult, Aged, Environmental Exposure, Female, Follow-Up Studies, Humans, Keratosis, Male, Middle Aged, Prevalence, Queensland, Skin Pigmentation, Sunlight, Sunscreening Agents},
+  pmid         = {9990367},
+  shortjournal = {Br. J. Dermatol.},
+}
+
+@Article{Frost1994,
+  author       = {Frost, C. A. and Green, A. C.},
+  title        = {Epidemiology of solar keratoses},
+  volume       = {131},
+  number       = {4},
+  pages        = {455--464},
+  abstract     = {Solar keratoses ({SKs}) or actinic keratoses are common dysplastic epidermal lesions which occur in pale-skinned individuals who are chronically exposed to intense sunlight. Together with basal cell carcinomas and squamous cell carcinomas, they constitute a major public health problem in such individuals. Reported {SK} prevalence rates range from 11 to 25\% in various northern hemisphere populations, and amongst Australian adults the range is from 40 to 60\%. In the only study to date reporting {SK} incidence data, 60\% of subjects aged 40 years and over with {SKs} at baseline developed new lesions during 12 months of follow-up, compared with only 19\% of those who were lesion-free on the first examination. Because existing epidemiological data on {SKs} are sparse, very little is known of their natural history, their role in carcinogenesis, or their preventability. In this review, current knowledge about the aetiology, diagnosis, and occurrence of {SKs} is discussed, as is the need for prospective studies in unselected communities. With accurate baseline data, public health authorities should be in a better position to determine the best preventive strategies, and to evaluate the effectiveness of these programmes.},
+  date         = {1994-10},
+  issn         = {0007-0963},
+  journaltitle = {The British Journal of Dermatology},
+  keywords     = {Adolescent, Adult, Aged, Aged, 80 and over, Australia, Female, Humans, Incidence, Keratosis, Male, Middle Aged, Prevalence, Sunlight},
+  pmid         = {7947197},
+  shortjournal = {Br. J. Dermatol.},
+}
+
+@Article{Roh2001,
+  author       = {Roh, K. and Kim, D. and Ha, S. and Ro, Y. and Kim, J. and Lee, H.},
+  title        = {Pigmentation in Koreans: study of the differences from caucasians in age, gender and seasonal variations},
+  volume       = {144},
+  number       = {1},
+  pages        = {94--99},
+  abstract     = {{BACKGROUND}: Human skin colour shows variations throughout life, and many extrinsic and intrinsic factors influence melanogenesis. Facultative pigmentation of sun-exposed skin has been suggested to reflect cumulative lifetime ultraviolet ({UV}) exposure in caucasians. However, pigmentary changes due to various regulatory factors may be different in dark-skinned peoples.
+{OBJECTIVES}: To observe the variations in skin colour due to ageing, gender differences and seasonal changes in Koreans with skin type {IV} or V.
+{METHODS}: Skin pigmentation was measured at five body sites (buttock, glabella, the V of the neck area, inner arm and dorsal forearm) using skin reflectance spectroscopy in 497 subjects (age range 0-87 years) in winter and 311 subjects (age range 0-84 years) in summer. Among these subjects, 110 were assessed in both seasons. Three independent measurements at each site were done and the average value was used as the pigmentation level.
+{RESULTS}: Constitutive pigmentation of the buttock was highest in the first decade of life. It then decreased during the second decade and this decreased level was maintained after the third decade. In contrast to caucasians, facultative pigmentation and sun exposure index did not increase with ageing. Gender differences were significant at all body sites after the first decade. Seasonal changes were apparent in dorsal forearm pigmentation. Little difference was seen in forehead pigmentation between summer and winter.
+{CONCLUSIONS}: Basal melanogenic regulation might not be different between Asians and caucasians. However, the sun exposure index may not represent lifelong cumulative {UV} exposure in Koreans. Age-, gender- and season-related characteristics of skin pigmentation in Koreans imply that genetically determined basal skin colour plays an important part in characterizing later responsiveness to {UV} radiation and sex hormones. Understanding differences between races will be helpful in studying the regulatory mechanisms of melanogenesis.},
+  date         = {2001-01},
+  issn         = {0007-0963},
+  journaltitle = {The British Journal of Dermatology},
+  keywords     = {Adolescent, Adult, Aged, Aged, 80 and over, Asian Continental Ancestry Group, Child, Child, Preschool, European Continental Ancestry Group, Female, Humans, Infant, Infant, Newborn, Korea, Male, Melanins, Middle Aged, Seasons, Sex Characteristics, Skin, Skin Aging, Skin Pigmentation, Spectrophotometry, Sunlight},
+  pmid         = {11167688},
+  shortjournal = {Br. J. Dermatol.},
+  shorttitle   = {Pigmentation in Koreans},
+}
+
+@Article{Nouveau-Richard2005,
+  author       = {Nouveau-Richard, S. and Yang, Z. and Mac-Mary, S. and Li, L. and Bastien, P. and Tardy, I. and Bouillon, C. and Humbert, P. and de Lacharrière, O.},
+  title        = {Skin ageing: a comparison between Chinese and European populations. A pilot study},
+  volume       = {40},
+  number       = {3},
+  pages        = {187--193},
+  abstract     = {{BACKGROUND}: Although limited data are available, it is commonly considered that Europeans and Asians have different skin ageing features.
+{OBJECTIVES}: The present studies have been carried out to evaluate the influence of age and sun-exposure on the main clinical signs of Asian skin ageing.
+{METHODS}: One hundred and sixty Chinese and 160 French age-matched women (age range: 20-60 years old) were clinically examined and scored by the same dermatologist. Facial wrinkles (crow's-feet, glabella and perioral wrinkles) and pigmented spots (on face and hands) were assessed in situ and standardized photographs of the face were taken. Lifelong sun-exposure was estimated from answers to a questionnaire. Comparisons were made between 10-year age groups.
+{RESULTS}: Results show that, for each facial skin area, wrinkle onset is delayed by about 10 years in Chinese women as compared to French women. Facial wrinkling rate over the years is linear in French women and not linear in Chinese women who appear to experience a fast ageing process between age 40 and 50. Pigmented spot intensity is a much more important ageing sign in Chinese women (severe for 30\% of women over 40) than in French women (severe for less than 8\% of women, irrespective of age).
+{CONCLUSION}: These first results underline that main skin ageing features (wrinkles, spots) progress differently in the Chinese and French women we have studied. They require to be confirmed on broad multicentre studies involving larger cohorts.},
+  date         = {2005-12},
+  doi          = {10.1016/j.jdermsci.2005.06.006},
+  issn         = {0923-1811},
+  journaltitle = {Journal of Dermatological Science},
+  keywords     = {Adult, Age Factors, Asian Continental Ancestry Group, China, Environmental Exposure, European Continental Ancestry Group, Female, France, Humans, Life Style, Middle Aged, Pilot Projects, Prevalence, Skin Aging, Skin Pigmentation, Smoking, Sunlight},
+  pmid         = {16154324},
+  shortjournal = {J. Dermatol. Sci.},
+  shorttitle   = {Skin ageing},
+}
+
+@Article{Wagner2002,
+  author       = {Wagner, Jennifer K. and Parra, Esteban J. and L Norton, Heather and Jovel, Celina and Shriver, Mark D.},
+  title        = {Skin responses to ultraviolet radiation: effects of constitutive pigmentation, sex, and ancestry},
+  volume       = {15},
+  number       = {5},
+  pages        = {385--390},
+  abstract     = {Constitutive skin pigmentation and skin responses to ultraviolet radiation were measured on a sample of volunteers (n=250) living in State College, {PA}, {USA}. The sample was composed of individuals of European American (n=190), Hispanic (n=45), and East Asian ancestry (n=15). Constitutive pigmentation was measured using the Adjusted Melanin Index ({AMI}), Erythemal Dose Response ({EDR}) was measured using the slope of a* at 24 h (Deltaa*), and Melanogenic Dose-Response ({MDR}) was measured using {DeltaAM}, the slope of {AMI} at 7 d. The relationships between constitutive skin pigmentation, {EDR}, {MDR}, sex, age, and ancestry were investigated. European Americans showed a lower constitutive pigmentation, had a significantly higher burn response ({EDR}), and had a significantly lower tanning response ({MDR}) than Hispanics and East Asians. No significant difference is seen between Hispanics and East Asians for either constitutive pigmentation or {EDR}. Constitutive pigmentation in females was slightly lower than in males in all three samples, but the difference was not significant. While no differences were observed in {MDR} between sexes, males had a stronger {EDR} than females regardless of population or constitutive pigmentation level, and this difference was significant in European Americans and Hispanics. We observed no age-related differences in any of the populations or measures investigated. We evaluated the relationship between constitutive pigmentation, {EDR} and {MDR}. There was a strong inverse correlation between constitutive pigmentation and {EDR} in the three samples (European Americans, R2=0.176, P {\textless} 0.001; Hispanics, R2=0.204, P=0.009; East Asians, R2=0.223, P=0.098) and a strong direct correlation between constitutive pigmentation and {MDR} in European Americans and Hispanics (European Americans, R2=0.094, P {\textless} 0.001; Hispanics, R2=0.164, P=0.012). In other words, persons with lower constitutive pigmentation both burn more and tan less than persons with higher pigmentation. However, after controlling for constitutive pigmentation, {EDR} and {MDR} were significantly correlated in European Americans (R2=0.041 P=0.006). Thus, the general observation that persons who burn more tan less is probable because of the common link that these two phenotypes have with constitutive skin pigmentation and, in fact, once pigmentation has been adjusted for, there is a positive correlation between tanning response and burning response in European Americans.},
+  date         = {2002-10},
+  issn         = {0893-5785},
+  journaltitle = {Pigment Cell Research / Sponsored by the European Society for Pigment Cell Research and the International Pigment Cell Society},
+  keywords     = {Adolescent, Adult, Aged, Age Factors, Erythema, Ethnic Groups, Female, Humans, Male, Melanins, Middle Aged, Sex Characteristics, Skin, Skin Pigmentation, Sunburn, Ultraviolet Rays},
+  pmid         = {12213096},
+  shortjournal = {Pigment Cell Res.},
+  shorttitle   = {Skin responses to ultraviolet radiation},
+}
+
+@Article{Hundeiker1975,
+  author       = {Hundeiker, M. and Friedrich, H. J.},
+  title        = {[A contribution to the classification of seborrheic keratoses (author's transl)]},
+  volume       = {254},
+  number       = {1},
+  pages        = {49--54},
+  abstract     = {A clinico-statistical study is reported, basing on a material of 639 excised tumours which were defined histologically as seborrheic keratoses. All statements concerning clinical diagnoses and differential diagnoses, localization, development, age and sex of patients were transferred to punch cards. By means of a suitable {EDA} program, basic counts and a multidimensional analysis of conditioned frequencies [14] were performed. The results indicate, that the different clinical forms of seborrheic warts, often discriminated in the literature, are variants of the same entity.},
+  date         = {1975-11-14},
+  journaltitle = {Archives for Dermatological Research = Archiv Für Dermatologische Forschung},
+  keywords     = {Adolescent, Adult, Aged, Age Factors, Child, Child, Preschool, Computers, Dermatitis, Seborrheic, Extremities, Face, Female, Humans, Infant, Infant, Newborn, Male, Middle Aged, Neck, Sex Factors, Statistics as Topic, Warts},
+  pmid         = {128329},
+  shortjournal = {Arch Dermatol Res},
+}
+
+@Article{Zakon1971,
+  author       = {Zakon, S. J. and Handler, R. M.},
+  title        = {Skin diseases of the aged},
+  volume       = {49},
+  number       = {1},
+  pages        = {206--209},
+  date         = {1971-01},
+  issn         = {0032-5481},
+  journaltitle = {Postgraduate Medicine},
+  keywords     = {Aged, Age Factors, Alopecia, Avitaminosis, Carcinoma, Basal Cell, Carcinoma, Squamous Cell, Dermatitis, Seborrheic, Humans, Keratosis, Neurodermatitis, Pressure Ulcer, Pruritus, Scalp Dermatoses, Skin Diseases, Skin Neoplasms},
+  pmid         = {4250226},
+  shortjournal = {Postgrad Med},
+}
+
+@Article{Lin2014,
+  author       = {Lin, J. and Han, S. and Cui, L. and Song, Z. and Gao, M. and Yang, G. and Fu, Y. and Liu, X.},
+  title        = {Evaluation of dermoscopic algorithm for seborrhoeic keratosis: a prospective study in 412 patients},
+  volume       = {28},
+  number       = {7},
+  pages        = {957--962},
+  abstract     = {{BACKGROUND}: Although most seborrhoeic keratoses can be easily diagnosed with dermoscopy, some lesions mimic a number of other diseases and lack typical dermoscopic criteria. Validation of the diagnostic algorithm and further understanding about dermoscopy of seborrhoeic keratosis is necessary.
+{OBJECTIVE}: To evaluate the dermoscopic criteria, define dermoscopic patterns and optimize the diagnostic algorithm of seborrhoeic keratosis in a large series of cases.
+{PATIENTS} {AND} {METHODS}: An unselected consecutive series of 416 clinically suspected seborrhoeic keratoses from 412 patients were prospectively included. All the lesions were imaged with dermoscopy, analysed for dermoscopic patterns and features. An independent blinded histopathological diagnosis as well as dermoscopic diagnosis was made for each lesion.
+{RESULTS}: A total of 416 lesions were analysed. Using histopathological diagnoses as the gold standard, the two-step algorithm achieved a sensitivity of 79.1, a specificity of 78.3\% (P {\textless} 0.01) and a κ index of 0.223. An optimized algorithm that combined lack of blue-grey or blue-white colour, sharp demarcation, mica-like structure and yellowish colour with the two-step algorithm demonstrated a sensitivity of 95.7\%, a specificity of 78.3\% (P {\textless} 0.001) and a κ index of 0.594. Pattern analysis revealed 12 dermoscopic patterns. The elevated lesions mainly presented fissures/ridges pattern, exophytic papillary pattern, crypts pattern and mica-like pattern; the flat lesions mainly presented structureless pattern and coral-like pattern.
+{CONCLUSION}: Seborrhoeic keratosis may present a variety of dermoscopic patterns and features. The combination of lack of blue-grey or blue-white colour, sharp demarcation, mica-like structure and yellowish colour with the two-step algorithm could improve its diagnostic accuracy.},
+  date         = {2014-07},
+  doi          = {10.1111/jdv.12241},
+  issn         = {1468-3083},
+  journaltitle = {Journal of the European Academy of Dermatology and Venereology: {JEADV}},
+  keywords     = {Adult, Aged, Aged, 80 and over, Algorithms, Color, Dermoscopy, Diagnosis, Differential, Female, Humans, Keratosis, Seborrheic, Male, Middle Aged, Prospective Studies, Reproducibility of Results, Sensitivity and Specificity, Skin, Skin Neoplasms},
+  pmid         = {23980820},
+  shortjournal = {J Eur Acad Dermatol Venereol},
+  shorttitle   = {Evaluation of dermoscopic algorithm for seborrhoeic keratosis},
+}
+
+@Article{Isik2013,
+  author        = {Isik, Burcu and Gurel, Mehmet S. and Erdemir, Asli T. and Kesmezacar, Ozgu},
+  title         = {Development of skin aging scale by using dermoscopy},
+  volume        = {19},
+  number        = {2},
+  pages         = {69--74},
+  __markedentry = {[mitri4:]},
+  abstract      = {{BACKGROUND}: Some features of skin aging that cannot be detected by the naked eye can be determined more easily by dermoscopy. Therefore, we aimed to measure skin aging with dermoscopy.
+{METHODS}: The study was performed in Istanbul Training and Research Hospital, a tertiary care referral center. A total of 441 participants between the ages of 20-88 (mean 48.4 ± 17.7) were separated into six groups according to their age. All participant's facial sun-exposed areas were examined by dermoscopy in terms of telangiectasia, vascular changes, pigmentation changes, seborrheic keratosis, actinic keratosis, periorbital comedones and cysts, superficial- deep- criss-cross wrinkles as the signs of photoaging and scored with the help of dermoscopic photoaging scale ({DPAS}). The validity of the scale was assessed with {DPAS} by the evaluation of both the axillar and the gluteal regions, that were not sun exposed and photoaged, with {DPAS}.
+{RESULTS}: The scale was found to be highly reliable as Cronbach's α coefficient was 0.756. Skin aging of patients from every decade was compared clinically with Glogou photoaging scale and Monheit-Fulton photoaging index and significant correlation was calculated as 0.773 and 0.774, respectively. An increase in photoaging scores from young people toward elders according to their ages was observed and the same linear difference between their mean values was detected.
+{CONCLUSION}: {DPAS} is a reliable and valid diagnostic tool that can evaluate photoaged skin quantitatively by the help of objective criteria so can be used to evaluate the effect of preventive and therapeutic applications for skin aging.},
+  date          = {2013-05},
+  doi           = {10.1111/srt.12033},
+  issn          = {1600-0846},
+  journaltitle  = {Skin research and technology: official journal of International Society for Bioengineering and the Skin ({ISBS}) [and] International Society for Digital Imaging of Skin ({ISDIS}) [and] International Society for Skin Imaging ({ISSI})},
+  keywords      = {Adult, Aged, Aged, 80 and over, Aging, Algorithms, Dermoscopy, Female, Humans, Image Interpretation, Computer-Assisted, Male, Middle Aged, Reproducibility of Results, Sensitivity and Specificity, Skin, Skin Aging, Young Adult},
+  pmid          = {23331299},
+  shortjournal  = {Skin Res Technol},
+}
+
+@Article{Sakakibara2010,
+  author        = {Sakakibara, Akihiro and Kamijima, Michihiro and Shibata, Shinichi and Yasue, Satoshi and Kono, Michihiro and Tomita, Yasushi},
+  title         = {Dermoscopic evaluation of vascular structures of various skin tumors in Japanese patients},
+  volume        = {37},
+  number        = {4},
+  pages         = {316--322},
+  __markedentry = {[mitri4:6]},
+  abstract      = {Dermoscopic analysis of skin tumor has been mainly focused on pigmented structures. Recently, several different morphological types of vessels were found to be well associated with pigmented or non-pigmented skin tumors in white subjects. Therefore, the recognition of such vascular structures has been applied for diagnostic purposes. As little statistical information on the various pigmented skin tumor vessels of Japanese patients has been reported, we therefore tried to evaluate the association between various vascular structures and 741 tumor lesions of Japanese patients. Vascular structures were dermoscopically recognized in 41 of 102 cases of melanoma, 104 of 119 basal cell carcinoma ({BCC}), 86 of 257 seborrheic keratosis ({SK}), 35 of 210 dermal and compound nevus ({DN}/{CN}), six of 12 squamous cell carcinoma ({SCC}) and 16 of 41 Bowen disease ({BD}). The structures of arborizing and glomerular vessels statistically revealed diagnostic specificity for {BCC} and {BD}, respectively, and hairpin vessels were helpful for differentiating {SK} from other pigmented tumors, as already reported in white patients. The most common vascular pattern observed in melanoma was the linear-irregular structure, but this pattern in Japanese patients had less diagnostic value than in white patients, because its sensitivity was not significantly higher than in {SCC}. The most remarkable differences between our study and previous reports with white patients were low frequency and sensitivity of dotted, comma and polymorphous vessels in lesions of melanoma, {BCC} and {DN}/{CN}; these vessels had less diagnostic value for Japanese patients. Finally, the frequency of vascular structures observed in melanoma rose along with the increase of the Breslow's tumor thickness, and 88\% of melanomas with vascular vessels revealed tumor thicknesses of more than 2 mm.},
+  date          = {2010-04},
+  doi           = {10.1111/j.1346-8138.2010.00828.x},
+  issn          = {1346-8138},
+  journaltitle  = {The Journal of Dermatology},
+  keywords      = {Adult, Aged, Aged, 80 and over, Asian Continental Ancestry Group, Blood Vessels, Bowen's Disease, Carcinoma, Basal Cell, Carcinoma, Squamous Cell, Dermoscopy, Female, Humans, Japan, Keratosis, Seborrheic, Male, Melanoma, Middle Aged, Neovascularization, Pathologic, Nevus, Retrospective Studies, Skin Neoplasms, Young Adult},
+  pmid          = {20507400},
+  shortjournal  = {J. Dermatol.},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
